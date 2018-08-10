@@ -76355,7 +76355,7 @@
       <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
       <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
       <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
-      <UnlockCost>0</UnlockCost>
+      <UnlockCost>990</UnlockCost>
       <DisplayId>{players.Musketeer}</DisplayId>
    </Object>
 </Objects>
